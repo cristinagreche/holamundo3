@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-    $a=13;
+    $a=10;
     $b=("9,99");
     $c="ejemplo variables php";
     //ipresion
